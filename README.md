@@ -30,6 +30,7 @@
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">  
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
+  <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg">
 </div>
   
   ##
