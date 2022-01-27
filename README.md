@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alexandre Luiz dos Santos
+### Hi! I'm Alexandre Luiz dos Santos
 
 - 🔭 Working with Java, Dart and Angular
 - 🌱 Studying flutter
