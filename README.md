@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Alexandre Luiz dos Santos
 
-- 🔭 Atualmente trabalho com Java no backend
-- 🌱 Atualmente aprendendo Angular
+- 🔭 Working with Java, Dart and Angular
+- 🌱 Studying flutter
 - 📫 Meu e-mail: alexandremcp@gmail.com
 - 😄 Pronouns: ele/dele
 
